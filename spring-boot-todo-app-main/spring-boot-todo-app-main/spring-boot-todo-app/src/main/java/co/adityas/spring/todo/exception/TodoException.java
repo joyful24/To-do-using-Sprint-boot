@@ -1,5 +1,6 @@
-package co.sohamds.spring.todo.exception;
+package co.adityas.spring.todo.exception;
 
 public class TodoException extends RuntimeException {
 
 }
+
