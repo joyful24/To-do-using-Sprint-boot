@@ -1,4 +1,4 @@
-package co.sohamds.spring.todo.domain;
+package co.adityas.spring.todo.domain;
 
 import javax.persistence.Entity;
 
@@ -26,6 +26,7 @@ public Todo(String todoItem, String completed) {
 	this.todoItem = todoItem;
 	this.completed = completed;
 }
+
 
 
 
